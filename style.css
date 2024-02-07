@@ -73,11 +73,13 @@ a {
 }
 
 .cont2 {
+  margin: -8px;
+  margin-top: -15px;
   padding: 20px;
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
-  justify-content: space-evenly;
+  justify-content: space-around;
   align-items: center;
   background-color: #000000;
 }
