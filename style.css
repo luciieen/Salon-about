@@ -77,15 +77,15 @@ a {
   color: rgb(255, 255, 255);
 }
 
+
 .cont2 {
   margin: 0px -8px 0px -8px;
-  padding: 20px;
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
   justify-content: space-around;
   align-items: center;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 
 .c1d1 {
