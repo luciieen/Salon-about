@@ -7,7 +7,7 @@ a {
   color: black;
 }
 
-.cont1 {
+/* .cont1 {
   display: flex;
   justify-content: center;
   flex-wrap: nowrap;
@@ -17,6 +17,17 @@ a {
   margin: -8px;
   padding: 8px;
   color: white;
+} */
+
+.cont1 {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  justify-content: space-around;
+  gap: 440px;
+  background-color: rgb(0, 0, 0);
+  margin: -8px;
+  color: rgb(255, 255, 255);
 }
 
 .cont1 > div {
